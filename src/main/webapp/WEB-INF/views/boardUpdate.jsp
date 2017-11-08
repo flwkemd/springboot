@@ -29,5 +29,7 @@
           <button type="submit" class="btn btn-default">수정</button>
         </form:form>
     </div>
+
+<%@ include file="bootstrap.jsp" %>
 </body>
 </html>

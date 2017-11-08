@@ -32,5 +32,7 @@
         </tr>
         </c:forEach>
     </table>
+
+<%@ include file="bootstrap.jsp" %>
 </body>
 </html>

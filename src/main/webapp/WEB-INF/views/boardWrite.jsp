@@ -30,5 +30,7 @@
           <button type="submit" class="btn btn-default">작성</button>
         </form>
     </div>
+
+<%@ include file="bootstrap.jsp" %>
 </body>
 </html>
